@@ -212,3 +212,14 @@ h5{
   font-size: 1.2rem;
   color: #333333;
 }
+.remove-btn{
+  /* width:fit-content; */
+  height:auto;
+  padding: .5rem;
+  border-radius: 8px;
+  background-color: #fd3826;
+  color:white;
+  border: none;
+  cursor:pointer;
+  margin:1rem;
+}
